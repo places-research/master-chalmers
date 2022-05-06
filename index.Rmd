@@ -1,0 +1,433 @@
+---
+title: "Why you should become a Master's student at Chalmers!"
+subtitle: "Presentation for the position: Assistant Professor progressing the transition to future transport solutions - Chalmers University"  
+author: 
+  - "Renata Oliveira"
+date: '24/05/2022'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["slides.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      beforeInit: "https://platform.twitter.com/widgets.js"
+      slideNumberFormat: |
+         <div class="progress-bar-container">
+           <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+           </div>
+         </div>
+    seal: false
+---
+
+```{r child = "setup.Rmd"}
+```
+
+```{r xaringan-logo, echo=FALSE}
+#xaringanExtra::use_logo(image_url = "img/Image2.png")
+```
+
+```{r echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+class: middle
+background-image: url(img/imagem3.png)
+background-size: contain
+
+.huge[
+.center[
+Why should you work in our research group to develop your thesis?
+]]
+
+.purple[
+.bigger[
+**Lecture for the position "Assistant Professor progressing the transition to future transport solutions"**
+]]
+
+
+.purple[
+Renata Oliveira   
+25/05/2022
+]
+
+???
+
+
+
+Try to put your research in a broader context and explain why it is relevant and important. Give examples of what a master thesis in this area might enable the students to do in the future and try to share your enthusiasm about the subject.
+
+
+---
+class: inverse, center, middle
+background-image: url(img/fundo1.png)
+background-size: cover
+
+.center[
+# What challenges do you and your city face on a daily basis?
+]
+
+---
+
+class: middle
+background-image: url(img/fundo2.png)
+background-size: cover
+
+.panelset.sideways[
+
+.panel[.panel-name[Inequities in access]
+### Inequities in access
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics("img/elyse-chia-kyeJW1zRH0I-unsplash.jpg")
+```
+
+]
+
+.panel[.panel-name[Hard commuting]
+### Hard commuting
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics("img/nikita-ignatev-uw5y4BdHgOA-unsplash.jpg")
+```
+
+]
+.panel[.panel-name[Unwalkable neighborhoods]
+### Unwalkable neighborhoods
+```{r echo=FALSE, out.width="70%"}
+knitr::include_graphics("img/reid-zura-nIY23aGkY0s-unsplash.jpg")
+```
+
+]
+.panel[.panel-name[Delivery delays]
+### Delivery delays
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics("img/claudio-schwarz-q8kR_ie6WnI-unsplash.jpg")
+```
+
+]
+.panel[.panel-name[Air and noise pollution]
+### Air and noise pollution
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics("img/vlad-5CIoWXZnH1A-unsplash.jpg")
+```
+
+]
+.panel[.panel-name[Limited resources]
+### Limited resources
+```{r echo=FALSE, out.width="70%"}
+knitr::include_graphics("img/darmau-lee-V0C_nZrkPKk-unsplash.jpg")
+```
+
+]
+
+.panel[.panel-name[Safety issues]
+### Safety issues
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics("img/c-joyful-uWOBgtCD_m8-unsplash.jpg")
+```
+
+]
+
+.panel[.panel-name[Cold meals, gig economy and labor precarization]
+### Cold meals, gig economy and labor precarization
+```{r echo=FALSE, out.width="70%"}
+knitr::include_graphics("img/sargis-chilingaryan-dTCBC39ATNw-unsplash.jpg")
+```
+
+]
+
+.panel[.panel-name[Crowded public transportation]
+### Crowded public transportation
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics("img/manki-kim-ABxVTtK-guA-unsplash.jpg")
+```
+]
+
+.panel[.panel-name[Imbalance between demand and supply]
+### Imbalance between demand and supply
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics("img/wesley-tingey-DBu9IrkuPFM-unsplash.jpg")
+```
+]
+]
+
+???
+
+Mobility of people and availability of goods is a fundamental part of the modern society and generates tremendous economic and social value. However, growing transport volumes pose challenges such as climate change, environmental pollution and traffic accidents.
+
+Maybe you haven't experienced all theses situations, but you surely know what it is about and how it affect people's lives. 
+
+---
+
+class: center
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## The vision of a sustainable future is what drives Chalmers
+
+```{r echo=FALSE, out.width="68%"}
+knitr::include_graphics("img/together.jpg")
+```
+
+
+???
+
+You all are acquainted with Chalmers masters' programs. 
+
+So you know that, to achieve this vision, besides the consolidated departments of education, Chalmers has organized students, researchers and professors in areas of advance. 
+
+Areas of Advance are all about **interdisciplinarity**, interaction between people; between researchers within and outside Chalmers, between researchers and students at Chalmers, between Chalmers and the surrounding world. 
+
+
+---      
+
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## Areas of Advance
+
+.bigger[
+- Energy   
+- Health Engineering   
+- Information and Communication Technology   
+- Materials Science   
+- Nano   
+- Production     
+- .bold[TRANSPORT]
+]
+
+???
+
+The Areas of Advance are challenge driven thematic platforms for strategy and long-term collaboration to address specific relevant challenges for industry and society. They also offer common access to cutting-edge research infrastructures as well as to several targeted centres. 
+
+At the same time, Chalmers' departments represent a continuous source of expertise. And it is this, the interplay between the departments and the Areas of Advance, that is so instrumental to our success!
+
+Transport area of Advance creates new knowledge to meet transport-related sustainability challenges. 
+
+Current research themes are autonomous transport, electromobility and the transition to future transport systems.
+
+---
+
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## Transport Area of Advance
+.center[
+.bigger[
+Research area **Transport Efficiency and Customer Adapted Logistics**
+]
+]
+
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("img/area.png")
+```
+
+???
+
+The profile includes two highly interrelated areas, reflecting two main perspectives, where researchers meet to jointly develop multidisciplinary research, education and innovation. These areas are demand for transport and logistics and supply of transport and logistics
+
+
+---
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## Sustainable Development Goals set - UN
+ 
+
+```{r echo=FALSE, out.width="60%"}
+knitr::include_graphics("img/sdg.png")
+```
+
+???
+
+So, we address these Sustainable Development Goals: 
+
+
+SDG 9 - Industry, innovation and infrastructure
+Redefining urban development strategies for effective and efficient future mobility solutions.
+Investigating the role of new technology for making goods transport more efficient.
+
+SDG 11 - Sustainable cities and communities   
+
+Virtual multimodal infrastructure for smart cities, providing more reliable and responsive transportation services, and thus improving the lives of urban dwellers.
+Development of an electrical ferry, contributing to reduced pollution in cities.
+A common framework of concepts and methods to investigate how sustainable modes of individual, non-motorized and collective motorized mobility have come into conflict with modern car-dominated urban city planning and traffic engineering.
+Enabling cities/municipalities to evaluate the different scenarios of a mixed vehicular traffic and their impact on traffic safety and efficiency.
+Researching the transition to sustainable business practices for retailing and transport as well as to sustainable consumer behaviour.
+
+
+---
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## PLACES - PLanning for ACcESs Research Group
+### Investigation objectives 
+
+.purple[.big[
+- Create the potential for **effective**, **sustainable** and **social responsible** urban logistics solutions;
+
+- Enhance **livability**, **equitable access to opportunities**, **social justice** and **quality of life** in cities through the **coordination** among **mobility systems**, **land use** and the **spatial structure of urban activities and functions**;  
+
+- **Characterise**, **diagnose** and **assess** the relationship between **production, distribution and consumption structures** on **inequitable access to food and other essential goods** in urban areas.  
+  
+- Investigate **causal** relationships among **urban logistics** systems and the **urban spatial structure**, identifying relevant factors that **drive demand for goods**, considering the **customer as an active agent** in urban logistics.
+]]
+
+---
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## PLACES - PLanning for ACcESs Research Group
+### Main departments exchanging knowledge and collaborating with PLACES
+
+.big[
+Department | Collaboration
+-----------|--------------
+Architecture and Civil Engineering | Urban Design and Planning, Urban ans Regional Transformations, Cities and Complexity, Urban Functional and Morphological structures, Geocomputation 
+Technology Management and Economics | Operations and Supply Chain Management, Entrepreneuship and informal labour, inequality measures, urban accessibility as the aim of urban planning and public policy
+Computer Science and Engineering | Data Analytics, Geocomputation, Theoretical ML research for decision-making, natural language processing to support qualitative methods
+Communication and Learning in Science | Support on research communication to broader audiences, data curation and compliance with GDPR and Open Science efforts. 
+]
+
+???
+
+GDPR - General Data Protection Regulation
+
+To explore these aforementioned goals through research and education, our research group focus on Transport Efficiency and Customer Adapted Logistics through interdisciplinary approaches.
+
+Our research group is entitled:
+
+---
+
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## Learning foundations and competence acquisition
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(icons)
+library(hexSticker)
+```
+
+.left-narrow[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
+```
+
+<br></br>
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+icon_style(fontawesome('github'), scale = 5, fill = "#ebdb00")
+```
+]
+
+.right-wide[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
+```
+]
+
+
+
+---
+
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## Projects waiting for you!!!
+
+.big[
+- jointly develop multidisciplinary research, education and innovation
+- demand for transport and logistics and supply of transport and logistics
+- Trabalho informal
+- Serviços críticos
+- Assessing trip chaining to access pickup points
+- Production and consumption in local scale
+- Demand for transport services and logistics
+]
+
+---
+background-image: url(img/fundo2.png)
+background-size: cover
+
+.center[
+## Projects waiting for you!!!
+]
+
+.big[
+- Relationship among urban structure, transport and logistics solutions, and social and environmental dimensions in the urban context. 
+- The impacts of Dark kitchens and on-demand delivery regarding: 
+      - inequalities of access to food products in urban areas
+      - pressure on the urban structure 
+- Investigation on causal factors for the 
+- Inequalities 
+- Access to informal work
+- Centralidade
+- Localização de instalações logísticas
+- Decision making - demand
+-   Paulo Henrique Góes Pinto - Identificação e qualificação de centralidades urbanas por meio de estrutura morfológico-funcional: um estudo de caso para a RMBH. 2020.
+Relationships among urban characteristics, real estate market and spatial patterns of warehouses in different geographic contexts.
+]
+
+
+???
+
+Our research group is part of the Transporte, entitle PLACES - Planning for accessibility, 
+
+
+---
+class: middle, center
+background-image: url(img/fundo1.png)
+background-size: cover
+
+.large[.yellow[
+Visit to Campus Lindholmen   
+26/05 - 09:30h
+
+Talk with current students and researchers   
+26/05 - 14:00h 
+]]
+
+???
+
+We still have some meetings tomorrow! 
+
+---
+class: middle, center, inverse
+background-image: url(img/fundo1.png)
+background-size: cover
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
+knitr::include_graphics("img/meme.png")
+```
+
+---
+class: middle
+background-image: url(img/fundo1.png)
+background-size: cover
+
+.larger[
+.center[
+THANK YOU AND JOIN US!
+]]
+
+&nbsp;
+<hr />
+
+<p style="text-align: center;"><span style="color: #ebdb00;"><em>renataoliveira@gmail.com</em></span></p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="https://twitter.com/retaoliveira?lang=en" class="fa fa-twitter fa-2x"></a>
+    <a href="https://github.com/retaoliveira" class="fa fa-github fa-2x"></a>
+    <a href="https://scholar.google.com/citations?user=V6EX45EAAAAJ" class="ai ai-google-scholar ai-2x"></a>
+    <a href="https://orcid.org/0000-0002-9011-2342" class="ai ai-orcid ai-2x"></a>
+    <a href="http://lattes.cnpq.br/2642488704355833" class="ai ai-lattes ai-2x"></a>
+    <a href="https://github.com/retaoliveira/relements/raw/main/texto/index.pdf" class="ai ai-cv ai-2x"></a>
+
+</p>
