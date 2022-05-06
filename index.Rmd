@@ -137,13 +137,6 @@ knitr::include_graphics("img/sargis-chilingaryan-dTCBC39ATNw-unsplash.jpg")
 
 ]
 
-.panel[.panel-name[Crowded public transportation]
-### Crowded public transportation
-```{r echo=FALSE, out.width="80%"}
-knitr::include_graphics("img/manki-kim-ABxVTtK-guA-unsplash.jpg")
-```
-]
-
 .panel[.panel-name[Imbalance between demand and supply]
 ### Imbalance between demand and supply
 ```{r echo=FALSE, out.width="80%"}
