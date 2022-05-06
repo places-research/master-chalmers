@@ -333,7 +333,9 @@ icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
 background-image: url(img/fundo2.png)
 background-size: cover
 
+.center[
 ## Projects waiting for you!!!
+]
 
 .big[
 - jointly develop multidisciplinary research, education and innovation
@@ -423,11 +425,14 @@ THANK YOU AND JOIN US!
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://twitter.com/retaoliveira?lang=en" class="fa fa-twitter fa-2x"></a>
-    <a href="https://github.com/retaoliveira" class="fa fa-github fa-2x"></a>
-    <a href="https://scholar.google.com/citations?user=V6EX45EAAAAJ" class="ai ai-google-scholar ai-2x"></a>
-    <a href="https://orcid.org/0000-0002-9011-2342" class="ai ai-orcid ai-2x"></a>
-    <a href="http://lattes.cnpq.br/2642488704355833" class="ai ai-lattes ai-2x"></a>
+    <a href="https://twitter.com/retaoliveira?lang=en" class="fa fa-twitter fa-2x"></a>&nbsp;&nbsp;
+    <a href="https://github.com/retaoliveira" class="fa fa-github fa-2x"></a>&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=V6EX45EAAAAJ" class="ai ai-google-scholar ai-2x"></a>&nbsp;&nbsp;
+    <a href="https://orcid.org/0000-0002-9011-2342" class="ai ai-orcid ai-2x"></a>&nbsp;&nbsp;
+    <a href="http://lattes.cnpq.br/2642488704355833" class="ai ai-lattes ai-2x"></a>&nbsp;&nbsp;
     <a href="https://github.com/retaoliveira/relements/raw/main/texto/index.pdf" class="ai ai-cv ai-2x"></a>
 
-</p>
+</p>
+
+&nbsp;
+
