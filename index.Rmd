@@ -77,8 +77,8 @@ background-size: cover
 
 .panelset.sideways[
 
-.panel[.panel-name[Inequities in access]
-### Inequities in access
+.panel[.panel-name[Inequitable access]
+### Inequitable access
 ```{r echo=FALSE, out.width="80%"}
 knitr::include_graphics("img/elyse-chia-kyeJW1zRH0I-unsplash.jpg")
 ```
@@ -302,69 +302,93 @@ library(icons)
 library(hexSticker)
 ```
 
-.left-narrow[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
+.pull-left[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
+knitr::include_graphics("img/logos.png")
+```
+]
+
+.pull-right[
+.bigger[
+- Spatial econometrics
+- Causal inference
+- Graphs and networks
+- Data analytics
+- Geocomputation
+- Simulation
+- Cities as complex systems
+]]
+
+---
+
+class: left
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## My personal objective!!!! ❤️ ❤️ ❤️ ❤️ ❤️ 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="35%"}
+knitr::include_graphics("img/2022-05-05 14_48_00-meme _master students_ - Pesquisa Google.png")
 ```
 
+
+---
+
+background-image: url(img/fundo2.png)
+background-size: cover
+
+.center[
+## Projects waiting just for you!!!
+]
+
+.bigger[
+- Assessing **trip chaining** to access **pickup points** - **customer** as an **active agent** in urban logistics solutions
+
+- The impacts of **Dark kitchens and on-demand delivery** regarding (i) **inequalities of access to food products** in urban areas; (ii) pressures on the **urban structure and quality of life**; (iii) **labour precarization**
+      
+- Understanding how the **accessibility of logistics facilities for Last-mile delivery** 
+can contribute to **equitable access to goods**. We can focus on **food systems** and explore central places theory (Christaller, 1966) 
+]
+
+---
+background-image: url(img/fundo2.png)
+background-size: cover
+
+.center[
+## Projects waiting just for you!!!
+]
+
+.bigger[
+- **Measuring** the **impacts** of **local production and consumption** arrangements on **social justice**. Would you be interested in exploring **Urban Agriculture**?
+
+- Characterization and diagnosis of **home delivery demand** - Let's investigate the decision process through **causal relationships** among **urban structure** elements, **customer profile, residence/work location, and willingness to collect** products in collection sites.
+
+- Relationships among **urban characteristics**, **real estate market** and **spatial patterns of logistics facilities** in different geographic contexts.
+]
+
+---
+background-image: url(img/fundo2.png)
+background-size: cover
+
+.center[
+## Projects waiting just for you!!!
+]
+
+.bigger[
+- Compare **urban centrality measures** and assess them as a proxy for **customer accessibility**. Let's explore spatial big data and collaborative webGIS such as OpenStreetMap. 
+]
 <br></br>
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-icon_style(fontawesome('github'), scale = 5, fill = "#ebdb00")
-```
-]
 
-.right-wide[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
-```
-]
+.your-turn[
+Remember that we can deepen our investigations comparing different economic contexts (global north and south, for instance!)
 
-
-
----
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-.center[
-## Projects waiting for you!!!
-]
-
-.big[
-- jointly develop multidisciplinary research, education and innovation
-- demand for transport and logistics and supply of transport and logistics
-- Trabalho informal
-- Serviços críticos
-- Assessing trip chaining to access pickup points
-- Production and consumption in local scale
-- Demand for transport services and logistics
-]
-
----
-background-image: url(img/fundo2.png)
-background-size: cover
-
-.center[
-## Projects waiting for you!!!
-]
-
-.big[
-- Relationship among urban structure, transport and logistics solutions, and social and environmental dimensions in the urban context. 
-- The impacts of Dark kitchens and on-demand delivery regarding: 
-      - inequalities of access to food products in urban areas
-      - pressure on the urban structure 
-- Investigation on causal factors for the 
-- Inequalities 
-- Access to informal work
-- Centralidade
-- Localização de instalações logísticas
-- Decision making - demand
--   Paulo Henrique Góes Pinto - Identificação e qualificação de centralidades urbanas por meio de estrutura morfológico-funcional: um estudo de caso para a RMBH. 2020.
-Relationships among urban characteristics, real estate market and spatial patterns of warehouses in different geographic contexts.
 ]
 
 
 ???
+
+- Identificação e qualificação de centralidades urbanas por meio de estrutura morfológico-funcional: um estudo de caso para a RMBH. 2020.
 
 Our research group is part of the Transporte, entitle PLACES - Planning for accessibility, 
 

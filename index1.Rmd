@@ -635,3 +635,37 @@ background-size: contain
 .center[
 JOIN US!
 ]]
+
+.pull-left-3[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="20%"}
+icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="10%"}
+knitr::include_graphics("img/rmarkdwon.png")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="40%"}
+icon_style(fontawesome('github'), scale = 5, fill = "#ebdb00")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="10%"}
+knitr::include_graphics("img/python.png")
+```
+]
+
+.pull-center-3[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="15%"}
+knitr::include_graphics("img/Qgis-icon-3.0.png")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="30%"}
+knitr::include_graphics("img/Zotero_logo.png")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="30%"}
+knitr::include_graphics("img/Basecamp_logo19.png")
+```
+

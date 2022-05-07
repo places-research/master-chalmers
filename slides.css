@@ -68,7 +68,7 @@
   --header-background-color: #A7D5E8;
   --header-background-text-color: #002b36;
   --purple: #504556;
-  --yellow: #ebdb00
+  --yellow: #ebdb00;
 }
   
 /* Font colors */
@@ -279,10 +279,12 @@ a, a > code {
 }
 
   /*Left 70% - Right 30% */
+  
 .pull-left {
   width: 50%;
   float: left;
 }
+
 .pull-right {
   width: 50%;
   float: right;
@@ -292,6 +294,26 @@ a, a > code {
   clear: both;
 }
 
+  /*Left 70% - Right 30% */
+  
+.pull-left-3 {
+  width: 30%;
+  float: left;
+}
+
+.pull-center-3 {
+  width: 30%;
+  float: center;
+}
+
+.pull-right-3 {
+  width: 30%;
+  float: right;
+}
+
+.pull-right-3 ~ * {
+  clear: both;
+}
 
   /*Left 70% - Right 30% */
 .pull-left-wide {
@@ -389,7 +411,14 @@ ul{
 }
 
 .your-turn {
-  border-left: solid 5px var(--light-blue);
+  border-left: solid 6px var(--yellow);
+  background-color: var(--purple);
+  color: var(--yellow);
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+  font-size: 170%;
+  text-align: center;
+  
 }
 
 
@@ -487,3 +516,82 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 .reduced_opacity {
   opacity: 0.5;
 }
+
+/*column */
+.column {
+    float: left;
+    position: relative;
+    width: 20%;
+  
+    /*for demo purposes only */
+    background: #f2f2f2;
+    border: 1px solid #e6e6e6;
+    box-sizing: border-box;
+}
+
+.column-offset-1 {
+    left: 20%;
+}
+.column-offset-2 {
+    left: 40%;
+}
+.column-offset-3 {
+    left: 60%;
+}
+.column-offset-4 {
+    left: 80%;
+}
+
+.column-inset-1 {
+    left: -20%;
+}
+.column-inset-2 {
+    left: -40%;
+}
+.column-inset-3 {
+    left: -60%;
+}
+.column-inset-4 {
+    left: -80%;
+}
+
+.split-1-2-1>.column:first-of-type {
+  width: 25%; height: 100%; position: absolute; top: 0; left: 0; 
+}
+.split-1-2-1>.column:nth-of-type(2) {
+  width: 50%; height: 100%; position: absolute; top: 0; left: 25%;
+}
+.split-1-2-1>.column:nth-of-type(3) {
+  width: 25%; height: 100%; position: absolute; top: 0; right: 0;
+}
+
+.split-main2>.row:first-of-type { 
+  height: 15%; width: 100%; position: absolute; top: 0; left: 0;
+}
+.split-main2>.row:nth-of-type(2) { 
+  height: 40%; width: 100%; position: absolute; left: 0; top: 15%;
+}
+.split-main2>.row:nth-of-type(3) { 
+  height: 40%; width: 100%; position: absolute; left: 0; bottom: 5%;
+}
+.split-main2>.row:nth-of-type(4) { 
+  height: 5%; width: 100%; position: absolute; bottom: 0; left: 0;
+}
+
+.split-main1>.row:first-of-type {
+  height: 15%; width: 100%; position: absolute; top: 0; left: 0;
+}
+.split-main1>.row:nth-of-type(2) {
+  height: 80%; width: 100%; position: absolute; left: 0; bottom: 5%;
+}
+.split-main1>.row:nth-of-type(3) {
+  height: 5%; width: 100%; position: absolute; bottom: 0; left: 0;
+}
+
+.split-title>.row:first-of-type {
+  height: 35%; width: 100%; position: absolute; top: 0; left: 0;
+}
+.split-title>.row:nth-of-type(2) {
+  height: 65%; width: 100%; position: absolute; left: 0; top: 35%;
+}
+
