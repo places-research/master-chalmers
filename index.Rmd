@@ -309,7 +309,7 @@ library(hexSticker)
 - Spatial econometrics
 - Causal inference
 - Graphs, networks, interactions and cities as complex systems
-- Data analytics, Geocomputation and simulation
+- Data analytics, geocomputation and simulation
 ]]
 
 .pull-right[
