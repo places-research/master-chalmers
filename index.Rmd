@@ -311,6 +311,7 @@ knitr::include_graphics("img/logos.png")
 
 .pull-right[
 .bigger[
+- Reproducible and collaborative research
 - Spatial econometrics
 - Causal inference
 - Graphs and networks
