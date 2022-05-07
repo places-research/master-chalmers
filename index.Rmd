@@ -302,23 +302,28 @@ library(icons)
 library(hexSticker)
 ```
 
-.pull-left[
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
+.pull-left[
+.big[
+- Reproducible and collaborative research
+- Spatial econometrics
+- Causal inference
+- Graphs, networks, interactions and cities as complex systems
+- Data analytics, Geocomputation and simulation
+]]
+
+.pull-right[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="70%"}
 knitr::include_graphics("img/logos.png")
 ```
 ]
 
-.pull-right[
-.bigger[
-- Reproducible and collaborative research
-- Spatial econometrics
-- Causal inference
-- Graphs and networks
-- Data analytics
-- Geocomputation
-- Simulation
-- Cities as complex systems
+
+
+.center[.bigger[
+METHODS, TOOLS AND BEHAVIOURAL SKILLS TO ADDRESS COMPLEX SOCIETY AND INDUSTRY PROBLEMS   
+**The world needs you!!!! **
 ]]
 
 ---
@@ -327,12 +332,20 @@ class: left
 background-image: url(img/fundo2.png)
 background-size: cover
 
-## My personal objective!!!! ❤️ ❤️ ❤️ ❤️ ❤️ 
+## My personal objectives!!!! ❤️ ❤️ ❤️ ❤️ ❤️ 
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="35%"}
+.pull-left[
+.middle[
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics("img/lovelearn.jpg")
+```
+]]
+
+.pull-right[
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="67%"}
 knitr::include_graphics("img/2022-05-05 14_48_00-meme _master students_ - Pesquisa Google.png")
 ```
-
+]
 
 ---
 
@@ -340,58 +353,68 @@ background-image: url(img/fundo2.png)
 background-size: cover
 
 .center[
-## Projects waiting just for you!!!
+## Projects waiting for us!!!
 ]
 
 .bigger[
+- **Trip chaining** to access **pickup points** - **customer** as an **active agent** 
+
+- **Dark kitchens and on-demand delivery** + **inequalities of access to food products** + **urban structure and quality of life** + **labour precarization**
+      
+- **Accessibility of logistics facilities for Last-mile delivery** + **Equitable access to goods** + **food systems** + **central places theory** _(Christaller, 1966)_ 
+
+- **Impacts** of **local production and consumption** on **social justice** + **Urban Agriculture**
+
+- **Home delivery demand** - **causal relationships** + **urban structure** + **customer profile, residence/work location, and willingness to collect goods** 
+]
+
+???
+
 - Assessing **trip chaining** to access **pickup points** - **customer** as an **active agent** in urban logistics solutions
 
 - The impacts of **Dark kitchens and on-demand delivery** regarding (i) **inequalities of access to food products** in urban areas; (ii) pressures on the **urban structure and quality of life**; (iii) **labour precarization**
       
 - Understanding how the **accessibility of logistics facilities for Last-mile delivery** 
 can contribute to **equitable access to goods**. We can focus on **food systems** and explore central places theory (Christaller, 1966) 
-]
 
----
-background-image: url(img/fundo2.png)
-background-size: cover
-
-.center[
-## Projects waiting just for you!!!
-]
-
-.bigger[
 - **Measuring** the **impacts** of **local production and consumption** arrangements on **social justice**. Would you be interested in exploring **Urban Agriculture**?
 
 - Characterization and diagnosis of **home delivery demand** - Let's investigate the decision process through **causal relationships** among **urban structure** elements, **customer profile, residence/work location, and willingness to collect** products in collection sites.
 
-- Relationships among **urban characteristics**, **real estate market** and **spatial patterns of logistics facilities** in different geographic contexts.
-]
 
 ---
 background-image: url(img/fundo2.png)
 background-size: cover
 
 .center[
-## Projects waiting just for you!!!
+## Projects waiting for us!!!
 ]
 
 .bigger[
-- Compare **urban centrality measures** and assess them as a proxy for **customer accessibility**. Let's explore spatial big data and collaborative webGIS such as OpenStreetMap. 
-]
-<br></br>
+
+
+- **Urban characteristics**, **real estate market** and **spatial patterns of logistics facilities**
+- **urban centrality measures** as a proxy for **customer accessibility**. Let's explore spatial big data and collaborative webGIS such as OpenStreetMap. 
 
 .your-turn[
 Remember that we can deepen our investigations comparing different economic contexts (global north and south, for instance!)
 
 ]
 
+]
+
 
 ???
+
+
+- Relationships among **urban characteristics**, **real estate market** and **spatial patterns of logistics facilities** in different geographic contexts.
 
 - Identificação e qualificação de centralidades urbanas por meio de estrutura morfológico-funcional: um estudo de caso para a RMBH. 2020.
 
 Our research group is part of the Transporte, entitle PLACES - Planning for accessibility, 
+
+- Compare **urban centrality measures** and assess them as a proxy for **customer accessibility**. Let's explore spatial big data and collaborative webGIS such as OpenStreetMap. 
+
 
 
 ---
@@ -427,6 +450,7 @@ background-size: cover
 
 .larger[
 .center[
+TACK OCH KOM MED OSS!   
 THANK YOU AND JOIN US!
 ]]
 
