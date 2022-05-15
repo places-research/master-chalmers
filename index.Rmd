@@ -153,27 +153,6 @@ Maybe you haven't experienced all theses situations, but you surely know what it
 
 ---
 
-class: center
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## The vision of a sustainable future is what drives Chalmers
-
-```{r echo=FALSE, out.width="68%"}
-knitr::include_graphics("img/together.jpg")
-```
-
-
-???
-
-You all are acquainted with Chalmers masters' programs. 
-
-So you know that, to achieve this vision, besides the consolidated departments of education, Chalmers has organized students, researchers and professors in areas of advance. 
-
-Areas of Advance are all about **interdisciplinarity**, interaction between people; between researchers within and outside Chalmers, between researchers and students at Chalmers, between Chalmers and the surrounding world. 
-
-
----      
 
 background-image: url(img/fundo2.png)
 background-size: cover
