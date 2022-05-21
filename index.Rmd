@@ -56,7 +56,11 @@ Renata Oliveira
 ???
 
 Try to put your research in a broader context and explain why it is relevant and important. Give examples of what a master thesis in this area might enable the students to do in the future and try to share your enthusiasm about the subject.
+---
+background-image: url(img/today.png)
+background-size: cover
 
+## Who am I?
 
 ---
 class: inverse, center, middle
@@ -177,17 +181,27 @@ background-size: cover
 
 .purple[.big[
 - Create the potential for **effective**, **sustainable** and **social responsible** urban logistics solutions;
+]]
 
+--
+
+.purple[.big[
 - Enhance **livability**, **equitable access to opportunities**, **social justice** and **quality of life** in cities through the **coordination** among **mobility systems**, **land use** and the **spatial structure of urban activities and functions**;  
+]]
 
+--
+
+.purple[.big[
 - **Characterise**, **diagnose** and **assess** the relationship between **production, distribution and consumption structures** on **inequitable access to food and other essential goods** in urban areas.  
-  
+]]
+
+--
+
+.purple[.big[
 - Investigate **causal** relationships among **urban logistics** systems and the **urban spatial structure**, identifying relevant factors that **drive demand for goods**, considering the **customer as an active agent** in urban logistics.
 ]]
 
 ---
-
-
 
 background-image: url(img/fundo2.png)
 background-size: cover
@@ -233,15 +247,13 @@ background-size: cover
 
 Department | Collaboration
 -----------|--------------
-Architecture and Civil Engineering | Urban Design and Planning, Urban ans Regional Transformations, Cities and Complexity, Urban Functional and Morphological structures, Geocomputation 
+Architecture and Civil Engineering | Urban Design and Planning, Urban and Regional Transformations, Cities and Complexity, Urban Functional and Morphological structures, Geocomputation 
 Technology Management and Economics | Operations and Supply Chain Management, Entrepreneuship and informal labour, inequality measures, urban accessibility as the aim of urban planning and public policy
 Computer Science and Engineering | Data Analytics, Geocomputation, Theoretical ML research for decision-making, natural language processing to support qualitative methods
 Communication and Learning in Science | Support on research communication to broader audiences, data curation and compliance with GDPR and Open Science efforts
 Space Earth and Environment (SEE) | Behaviour, energy, emmissions, travel demand, travel behaviour, modelling and simulation
 
-
 ???
-
 GDPR - General Data Protection Regulation
 
 To explore these aforementioned goals through research and education, our research group focus on Transport Efficiency and Customer Adapted Logistics through interdisciplinary approaches.
@@ -279,16 +291,38 @@ background-size: cover
 ]
 
 .bigger[
-- **Trip chaining** to access **pickup points** - **customer** as an **active agent** 
-
-- **Dark kitchens and on-demand delivery** + **inequalities of access to food products** + **urban structure and quality of life** + **labour precarization**
-      
-- **Accessibility of logistics facilities for Last-mile delivery** + **Equitable access to goods** + **food systems** + **central places theory** _(Christaller, 1966)_ 
-
-- **Impacts** of **local production and consumption** on **social justice** + **Urban Agriculture**
-
-- **Home delivery demand** - **causal relationships** + **urban structure** + **customer profile, residence/work location, and willingness to collect goods** 
+**Trip chaining** to access **pickup points**
 ]
+Customer as an active agent in urban logistics solutions
+
+--
+
+.bigger[
+**Dark kitchens and on-demand delivery** 
+]
+Urban logistics + inequalities of access to food products + urban structure and quality of life + labour precarization
+
+
+--
+
+.bigger[
+**Accessibility of logistics facilities for Last-mile delivery**
+]
+Urban logistics + equitable access to goods + food systems + Central Places Theory
+
+--
+
+.bigger[
+**Impacts** of **local production and consumption** on **social justice**
+]
+Supply Chain Management + food systems + inequality and accessibility measures + Urban agriculture
+--
+
+.bigger[
+**Home delivery demand**
+]
+Causal relationships + urban structure + customer profile, residence/work location, and willingness to collect goods 
+
 
 ???
 
@@ -314,12 +348,18 @@ background-size: cover
 
 .bigger[
 - **Urban characteristics**, **real estate market** and **spatial patterns of logistics facilities**
+]
+
+--
+
+.bigger[
 - **urban centrality measures** as a proxy for **customer accessibility**. Let's explore spatial big data and collaborative webGIS such as OpenStreetMap. 
+]
 
 .your-turn[
 Remember that we can deepen our investigations comparing different economic contexts (global north and south, for instance!)
 ]
-]
+
 
 ???
 
@@ -330,25 +370,6 @@ Remember that we can deepen our investigations comparing different economic cont
 Our research group is part of the Transporte, entitle PLACES - Planning for accessibility, 
 
 - Compare **urban centrality measures** and assess them as a proxy for **customer accessibility**. Let's explore spatial big data and collaborative webGIS such as OpenStreetMap. 
-
-
-
----
-class: middle, center
-background-image: url(img/fundo1.png)
-background-size: cover
-
-.large[.yellow[
-Visit to Campus Lindholmen   
-26/05 - 09:30h
-
-Talk with current students and researchers   
-26/05 - 14:00h 
-]]
-
-???
-
-We still have some meetings tomorrow! 
 
 ---
 class: middle, center, inverse
