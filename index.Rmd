@@ -55,8 +55,6 @@ Renata Oliveira
 
 ???
 
-
-
 Try to put your research in a broader context and explain why it is relevant and important. Give examples of what a master thesis in this area might enable the students to do in the future and try to share your enthusiasm about the subject.
 
 
@@ -80,7 +78,7 @@ background-size: cover
 .panel[.panel-name[Inequitable access]
 ### Inequitable access
 ```{r echo=FALSE, out.width="80%"}
-knitr::include_graphics("img/elyse-chia-kyeJW1zRH0I-unsplash.jpg")
+knitr::include_graphics("img/ineq.png")
 ```
 
 ]
@@ -88,7 +86,7 @@ knitr::include_graphics("img/elyse-chia-kyeJW1zRH0I-unsplash.jpg")
 .panel[.panel-name[Hard commuting]
 ### Hard commuting
 ```{r echo=FALSE, out.width="80%"}
-knitr::include_graphics("img/nikita-ignatev-uw5y4BdHgOA-unsplash.jpg")
+knitr::include_graphics("img/traffic.png")
 ```
 
 ]
@@ -106,27 +104,19 @@ knitr::include_graphics("img/claudio-schwarz-q8kR_ie6WnI-unsplash.jpg")
 ```
 
 ]
+
 .panel[.panel-name[Air and noise pollution]
 ### Air and noise pollution
 ```{r echo=FALSE, out.width="80%"}
-knitr::include_graphics("img/vlad-5CIoWXZnH1A-unsplash.jpg")
+knitr::include_graphics("img/pollution.png")
 ```
-
-]
-.panel[.panel-name[Limited resources]
-### Limited resources
-```{r echo=FALSE, out.width="70%"}
-knitr::include_graphics("img/darmau-lee-V0C_nZrkPKk-unsplash.jpg")
-```
-
 ]
 
 .panel[.panel-name[Safety issues]
 ### Safety issues
 ```{r echo=FALSE, out.width="80%"}
-knitr::include_graphics("img/c-joyful-uWOBgtCD_m8-unsplash.jpg")
+knitr::include_graphics("img/bike.png")
 ```
-
 ]
 
 .panel[.panel-name[Cold meals, gig economy and labor precarization]
@@ -151,25 +141,7 @@ Mobility of people and availability of goods is a fundamental part of the modern
 
 Maybe you haven't experienced all theses situations, but you surely know what it is about and how it affect people's lives. 
 
----
-
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## Areas of Advance
-
-.bigger[
-- Energy   
-- Health Engineering   
-- Information and Communication Technology   
-- Materials Science   
-- Nano   
-- Production     
-- .bold[TRANSPORT]
-]
-
-???
+The profile includes two highly interrelated areas, reflecting two main perspectives, where researchers meet to jointly develop multidisciplinary research, education and innovation. These areas are demand for transport and logistics and supply of transport and logistics
 
 The Areas of Advance are challenge driven thematic platforms for strategy and long-term collaboration to address specific relevant challenges for industry and society. They also offer common access to cutting-edge research infrastructures as well as to several targeted centres. 
 
@@ -178,40 +150,6 @@ At the same time, Chalmers' departments represent a continuous source of experti
 Transport area of Advance creates new knowledge to meet transport-related sustainability challenges. 
 
 Current research themes are autonomous transport, electromobility and the transition to future transport systems.
-
----
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## Transport Area of Advance
-.center[
-.bigger[
-Research area **Transport Efficiency and Customer Adapted Logistics**
-]
-]
-
-```{r echo=FALSE, out.width="40%"}
-knitr::include_graphics("img/area.png")
-```
-
-???
-
-The profile includes two highly interrelated areas, reflecting two main perspectives, where researchers meet to jointly develop multidisciplinary research, education and innovation. These areas are demand for transport and logistics and supply of transport and logistics
-
-
----
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## Sustainable Development Goals set - UN
- 
-
-```{r echo=FALSE, out.width="60%"}
-knitr::include_graphics("img/sdg.png")
-```
-
-???
 
 So, we address these Sustainable Development Goals: 
 
@@ -228,8 +166,9 @@ A common framework of concepts and methods to investigate how sustainable modes 
 Enabling cities/municipalities to evaluate the different scenarios of a mixed vehicular traffic and their impact on traffic safety and efficiency.
 Researching the transition to sustainable business practices for retailing and transport as well as to sustainable consumer behaviour.
 
-
 ---
+
+
 background-image: url(img/fundo2.png)
 background-size: cover
 
@@ -247,30 +186,8 @@ background-size: cover
 ]]
 
 ---
-background-image: url(img/fundo2.png)
-background-size: cover
 
-## PLACES - PLanning for ACcESs Research Group
-### Main departments exchanging knowledge and collaborating with PLACES
 
-.big[
-Department | Collaboration
------------|--------------
-Architecture and Civil Engineering | Urban Design and Planning, Urban ans Regional Transformations, Cities and Complexity, Urban Functional and Morphological structures, Geocomputation 
-Technology Management and Economics | Operations and Supply Chain Management, Entrepreneuship and informal labour, inequality measures, urban accessibility as the aim of urban planning and public policy
-Computer Science and Engineering | Data Analytics, Geocomputation, Theoretical ML research for decision-making, natural language processing to support qualitative methods
-Communication and Learning in Science | Support on research communication to broader audiences, data curation and compliance with GDPR and Open Science efforts. 
-]
-
-???
-
-GDPR - General Data Protection Regulation
-
-To explore these aforementioned goals through research and education, our research group focus on Transport Efficiency and Customer Adapted Logistics through interdisciplinary approaches.
-
-Our research group is entitled:
-
----
 
 background-image: url(img/fundo2.png)
 background-size: cover
@@ -283,7 +200,7 @@ library(hexSticker)
 
 
 .pull-left[
-.big[
+.bigger[
 - Reproducible and collaborative research
 - Spatial econometrics
 - Causal inference
@@ -298,12 +215,38 @@ knitr::include_graphics("img/logos.png")
 ```
 ]
 
-
-
 .center[.bigger[
-METHODS, TOOLS AND BEHAVIOURAL SKILLS TO ADDRESS COMPLEX SOCIETY AND INDUSTRY PROBLEMS   
-**The world needs you!!!! **
+METHODS AND BEHAVIOURAL SKILLS TO ADDRESS COMPLEX SOCIETY AND INDUSTRY PROBLEMS   
 ]]
+
+
+???
+
+**The world needs you!!!!**
+
+---
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## PLACES - PLanning for ACcESs Research Group
+### Main departments exchanging knowledge and collaborating with PLACES
+
+Department | Collaboration
+-----------|--------------
+Architecture and Civil Engineering | Urban Design and Planning, Urban ans Regional Transformations, Cities and Complexity, Urban Functional and Morphological structures, Geocomputation 
+Technology Management and Economics | Operations and Supply Chain Management, Entrepreneuship and informal labour, inequality measures, urban accessibility as the aim of urban planning and public policy
+Computer Science and Engineering | Data Analytics, Geocomputation, Theoretical ML research for decision-making, natural language processing to support qualitative methods
+Communication and Learning in Science | Support on research communication to broader audiences, data curation and compliance with GDPR and Open Science efforts
+Space Earth and Environment (SEE) | Behaviour, energy, emmissions, travel demand, travel behaviour, modelling and simulation
+
+
+???
+
+GDPR - General Data Protection Regulation
+
+To explore these aforementioned goals through research and education, our research group focus on Transport Efficiency and Customer Adapted Logistics through interdisciplinary approaches.
+
+Our research group is entitled:
 
 ---
 
@@ -370,21 +313,15 @@ background-size: cover
 ]
 
 .bigger[
-
-
 - **Urban characteristics**, **real estate market** and **spatial patterns of logistics facilities**
 - **urban centrality measures** as a proxy for **customer accessibility**. Let's explore spatial big data and collaborative webGIS such as OpenStreetMap. 
 
 .your-turn[
 Remember that we can deepen our investigations comparing different economic contexts (global north and south, for instance!)
-
 ]
-
 ]
-
 
 ???
-
 
 - Relationships among **urban characteristics**, **real estate market** and **spatial patterns of logistics facilities** in different geographic contexts.
 

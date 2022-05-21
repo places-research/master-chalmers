@@ -11,6 +11,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tinos&family=Work+Sans:ital,wght@0,300;0,400;1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tinos&family=Work+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Montserrat:wght@300&family=Noto+Sans:wght@200&family=Nunito&family=Shadows+Into+Light&family=Zen+Loop&display=swap');
 
 
 /* Turn off slide numbers */
@@ -52,6 +53,7 @@
   --header-h1-font-size: 3.5rem;
   --header-h2-font-size: 2rem;
   --header-h3-font-size: 1.5rem;
+  
   
   /* Colors */
   --text-color: #000000;
@@ -415,9 +417,10 @@ ul{
   background-color: var(--purple);
   color: var(--yellow);
   font-weight: bold;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Shadows Into Light', cursive;
   font-size: 150%;
   text-align: center;
+  
   
 }
 
