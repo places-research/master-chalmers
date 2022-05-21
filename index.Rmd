@@ -56,6 +56,7 @@ Renata Oliveira
 ???
 
 Try to put your research in a broader context and explain why it is relevant and important. Give examples of what a master thesis in this area might enable the students to do in the future and try to share your enthusiasm about the subject.
+
 ---
 background-image: url(img/today.png)
 background-size: cover
@@ -89,7 +90,7 @@ knitr::include_graphics("img/ineq.png")
 
 .panel[.panel-name[Hard commuting]
 ### Hard commuting
-```{r echo=FALSE, out.width="80%"}
+```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("img/traffic.png")
 ```
 
@@ -316,12 +317,7 @@ Urban logistics + equitable access to goods + food systems + Central Places Theo
 **Impacts** of **local production and consumption** on **social justice**
 ]
 Supply Chain Management + food systems + inequality and accessibility measures + Urban agriculture
---
 
-.bigger[
-**Home delivery demand**
-]
-Causal relationships + urban structure + customer profile, residence/work location, and willingness to collect goods 
 
 
 ???
@@ -347,19 +343,27 @@ background-size: cover
 ]
 
 .bigger[
-- **Urban characteristics**, **real estate market** and **spatial patterns of logistics facilities**
+**Home delivery demand**
 ]
+Causal relationships + urban structure + customer profile, residence/work location, and willingness to collect goods 
 
 --
 
 .bigger[
-- **urban centrality measures** as a proxy for **customer accessibility**. Let's explore spatial big data and collaborative webGIS such as OpenStreetMap. 
+**Urban characteristics**, **real estate market** and **spatial patterns of logistics facilities**
 ]
+Urban logistics + data scrapping + data analytics + geocomputation + morphology and functional urban structure
 
-.your-turn[
+--
+
+.bigger[
+**Urban centrality measures** as a proxy for **customer accessibility**
+]
+Spatial big data + open data from collaborative webGIS such as OpenStreetMap + centrality measures + accessibility
+
+.big[.center[.bold[
 Remember that we can deepen our investigations comparing different economic contexts (global north and south, for instance!)
-]
-
+]]]
 
 ???
 
